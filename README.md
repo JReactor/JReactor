@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JReactor !
 - 👀 I’m interested in ... how things work!
 - 🌱 I’m currently learning ... how to make things that work!
-- 💞️ I’m looking to collaborate on ... myself!
+- 💞️ I’m here to learn , create , collect and save things that I am interested in!
 - 📫 How to reach me ... I will reach you! 
 
 <!---
